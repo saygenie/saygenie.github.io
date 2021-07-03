@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://saygenie.github.io/sitemap.xml
